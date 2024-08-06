@@ -1,12 +1,13 @@
-# PolyGen: An Autoregressive Generative Model of 3D Meshes
-
-![](media/example_samples.png)
 
 # Repository Overview
 
 This is a copy of the official DeepMind repository for the PolyGen model. 
 This repository includes a working Dockerfile to install the dependencies, download the pretained models and run the inference. 
 Warning: inference only works on CPU. Due to some trouble, I was not able to run the inference on GPU.
+
+# PolyGen: An Autoregressive Generative Model of 3D Meshes
+
+![](media/example_samples.png)
 
 
 This package provides an implementation of PolyGen as described in:

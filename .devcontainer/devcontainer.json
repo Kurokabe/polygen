@@ -9,7 +9,7 @@
         "--gpus",
         "all",
         "--name",
-        "polygen_tf_tmp",
+        "polygen_tf",
         "--shm-size=50gb"
     ],
     "customizations": {
